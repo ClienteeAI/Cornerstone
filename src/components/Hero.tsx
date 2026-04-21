@@ -32,33 +32,30 @@ export default function Hero() {
         <div className="absolute inset-0 bg-primary/60"></div>
       </div>
 
-      <div className="container mx-auto px-6 flex-grow flex flex-col justify-center relative z-10 py-20">
-        <div className="max-w-2xl">
+      <div className="container mx-auto px-6 flex-grow flex items-start pt-10 lg:pt-16 relative z-10">
+        <div className="grid lg:grid-cols-2 w-full gap-12">
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
+            initial={{ opacity: 0, x: -30 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.8 }}
           >
-            <img 
-              src="/logos/gold.png" 
-              alt="Cornerstone Marketing Logo" 
-              className="h-32 md:h-48 w-auto object-contain mb-12"
-            />
-            <h1 className="text-4xl md:text-6xl lg:text-7xl text-white font-serif font-bold leading-tight mb-6">
-              Přivádíme kapitál do <span className="text-gold italic">realitních projektů.</span>
+            <h1 className="text-4xl md:text-6xl lg:text-7xl text-white font-serif font-bold leading-tight mb-8">
+              Přivádíme kapitál do <br />
+              <span className="text-gold italic">realitních projektů.</span>
             </h1>
-            <p className="text-2xl md:text-3xl text-gold font-serif italic mb-4">
+            <p className="text-xl md:text-2xl text-gold font-serif italic mb-6">
               Růst, který vydělává.
             </p>
-            <p className="text-lg text-white/70 tracking-widest uppercase mb-10">
-              Realitní projekty. Kapitál. Výkon.
+            <p className="text-lg text-white/60 tracking-[0.2em] uppercase mb-10 max-w-lg">
+              Strategický marketing. <br />
+              Privátní kapitál. Obchodní výkon.
             </p>
 
             <div className="flex flex-wrap gap-4">
-              <Button className="btn-shiny-gold text-primary font-bold rounded-none px-8 py-6 text-lg btn-border-beam">
+              <Button className="btn-shiny-gold text-primary font-bold rounded-none px-10 py-7 text-lg btn-border-beam">
                 Navázat spolupráci
               </Button>
-              <Button variant="outline" className="border-gold text-gold hover:bg-gold hover:text-primary font-bold rounded-none px-8 py-6 text-lg transition-all duration-300">
+              <Button variant="outline" className="border-gold text-gold hover:bg-gold hover:text-primary font-bold rounded-none px-10 py-7 text-lg transition-all duration-300">
                 Přidat se do týmu
               </Button>
             </div>

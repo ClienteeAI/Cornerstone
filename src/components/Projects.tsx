@@ -4,17 +4,17 @@ import { Home, PlusCircle, Clock } from "lucide-react";
 const projectTypes = [
   {
     title: "Rezidenční development",
-    description: "Bytové a rezidenční projekty ve fázi výstavby i prodeje.",
+    description: "Specializujeme se na exkluzivní bytové domy a rezidenční čtvrti. Zajišťujeme kompletní marketingové pokrytí od prvního výkopu až po předání klíčů posledním majitelům.",
     icon: Home,
   },
   {
-    title: "Nové developerské projekty",
-    description: "Projekty ve fázi přípravy, kde je klíčová práce s poptávkou a klienty.",
+    title: "Investiční celky",
+    description: "Strategicky propojujeme rozsáhlé developerské projekty s bonitní klientelou. Vytváříme prostředí pro efektivní zhodnocení kapitálu prostřednictvím moderní architektury.",
     icon: PlusCircle,
   },
   {
-    title: "Dlouhodobé projekty",
-    description: "Spolupráce na projektech, které vyžadují stabilní obchodní a marketingový přístup.",
+    title: "Komerční výstavba",
+    description: "Podporujeme projekty s jasnou vizí budoucnosti. Od moderních kancelářských komplexů až po udržitelné projekty s vysokou přidanou hodnotou pro investory.",
     icon: Clock,
   },
 ];

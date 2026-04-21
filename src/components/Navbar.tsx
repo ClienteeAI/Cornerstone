@@ -44,7 +44,7 @@ export default function Navbar() {
             <a
               key={item.name}
               href={item.href}
-              className="text-white/80 hover:text-gold transition-colors text-sm font-medium uppercase tracking-wider"
+              className="text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] hover:text-gold transition-colors text-sm font-bold uppercase tracking-wider"
             >
               {item.name}
             </a>

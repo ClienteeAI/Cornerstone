@@ -3,23 +3,23 @@ import { motion } from "motion/react";
 const steps = [
   {
     number: "01",
-    title: "Marketing přivádí kontakty",
-    description: "Náš systém generuje kvalitní poptávku po realitních projektech.",
+    title: "Generování Leadů",
+    description: "Náš marketingový tým oslovuje bonitní klientelu prostřednictvím cílených kampaní. Každý kontakt je prověřen a připraven na obchodní jednání.",
   },
   {
     number: "02",
-    title: "Obchodník pracuje s klienty",
-    description: "Vy přebíráte kontakt a provázíte klienta celým procesem.",
+    title: "Kvalifikovaný Obchod",
+    description: "Jako specialista přebíráte kontakt a provázíte klienta investičním procesem. Máte k dispozici veškeré vizualizace a podklady pro špičkovou prezentaci.",
   },
   {
     number: "03",
-    title: "Uzavírá obchod",
-    description: "Díky kvalitní podpoře a vaší práci dochází k finálnímu podpisu.",
+    title: "Finalizace Transakce",
+    description: "Poskytujeme vám plnou administrativní a právní podporu, aby prodej proběhl hladce. Vaším úkolem je budování důvěry a spokojenost klienta.",
   },
   {
     number: "04",
-    title: "Vydělává",
-    description: "Za každý uzavřený obchod získáváte nadstandardní provizi.",
+    title: "Profit a Růst",
+    description: "Po uzavření obchodu získáváte transparentní odměnu. Úspěšní obchodníci u nás budují dlouhodobou kariéru a podílejí se na velkých projektech.",
   },
 ];
 
