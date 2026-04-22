@@ -26,8 +26,8 @@ const steps = [
 export default function HowItWorks() {
   return (
     <section className="py-24 relative overflow-hidden bg-white text-primary">
-      {/* Clearly Visible Building Silhouette Background */}
-      <div className="absolute bottom-0 left-0 w-full h-2/3 z-0 opacity-10 pointer-events-none">
+      {/* Clearly Visible Building Silhouette Background - Height adjusted to keep title on white */}
+      <div className="absolute bottom-0 left-0 w-full h-[55%] z-0 opacity-10 pointer-events-none">
         <img 
           src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop" 
           alt="Building Silhouette"
@@ -39,7 +39,7 @@ export default function HowItWorks() {
         <div className="text-center mb-20">
           <span className="text-gold font-bold tracking-[0.3em] uppercase text-sm mb-4 block">Proces</span>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-[#163E32]">Jak funguje spolupráce</h2>
-          <p className="text-xl text-[#163E32]/70 max-w-2xl mx-auto leading-relaxed mt-12">
+          <p className="text-xl text-[#163E32]/70 max-w-2xl mx-auto leading-relaxed mt-16 font-medium">
             Spolupráce je postavená na jasném systému, kde má každý svou roli.
             Marketing přivádí poptávku a obchodník uzavírá obchody.
           </p>
