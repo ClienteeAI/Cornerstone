@@ -25,7 +25,7 @@ const steps = [
 
 export default function HowItWorks() {
   return (
-    <section className="py-24 relative overflow-hidden bg-white text-primary">
+    <section className="pt-36 pb-24 relative overflow-hidden bg-white text-primary">
       {/* Clearly Visible Building Silhouette Background */}
       <div className="absolute bottom-0 left-0 w-full h-2/3 z-0 opacity-10 pointer-events-none">
         <img 
