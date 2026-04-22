@@ -81,7 +81,7 @@ export const blogPosts: BlogPost[] = [
       <p>První měsíc je intenzivní vzdělávací jízda. Máme vlastní Cornerstone Akademii, kde nováčci procházejí moduly zaměřenými na psychologii prodeje, pokročilý digitální marketing pro realitní segment a datovou analytiku. Každý modul končí praktickým cvičením na reálných datech z našich minulých kampaní. Chceme mít jistotu, že naši lidé jsou na trhu ti nejprofesionálnější a že disponují nástroji, které jim umožní dosahovat výsledků, o kterých se jiným jen zdá. Neustálé sebevzdělávání je v naší kultuře základním kamenem.</p>
 
       <h2>Integrace do technického "Stacku" a AI revoluce</h2>
-      <p>Marketing v roce 2024 je o technologiích. Nový zaměstnanec je okamžitě zaškolen do našich analytických a komunikačních platforem. Učíme se pracovat s AI, automatizovat repetitivní úkoly a využívat data pro predikci chování klientů. Nechceme, aby naši lidé dělali monkey-job; chceme, aby byli architekty kampaní a obchodních procesů. V Cornerstone dáváme k dispozici nejmodernější nástroje na trhu, abychom maximalizovali efektivitu každého jednotlivce.</p>
+      <p>Marketing v roce 2026 je o technologiích. Nový zaměstnanec je okamžitě zaškolen do našich analytických a komunikačních platforem. Učíme se pracovat s AI, automatizovat repetitivní úkoly a využívat data pro predikci chování klientů. Nechceme, aby naši lidé dělali monkey-job; chceme, aby byli architekty kampaní a obchodních procesů. V Cornerstone dáváme k dispozici nejmodernější nástroje na trhu, abychom maximalizovali efektivitu každého jednotlivce.</p>
 
       <h2>Zpětná vazba: Obousměrná cesta k excelenci</h2>
       <p>Po 30, 60 a 90 dnech probíhají strukturované check-iny. Nejde jen o hodnocení výkonu nováčka, ale také o to, co můžeme jako firma udělat lépe. Noví lidé mají \"čerstvé oči\" a jejich vhledy do našich procesů jsou pro nás nesmírně cenné. Často právě díky podnětům od nováčků implementujeme nové nástroje nebo zefektivňujeme rutinní postupy. V Cornerstone si vážíme konstruktivní kritiky a věříme, že právě díky ní se stáváme nezastavitelnými.</p>
@@ -90,10 +90,10 @@ export const blogPosts: BlogPost[] = [
       <p>Součástí onboardingu je i seznámení s očekáváními. Nebudeme vám lhát – pracujeme tvrdě. Ale také se umíme za skvělou práci odměnit. Učíme nové kolegy, jak si nastavit prioritizaci úkolů (time management) a jak se vyrovnat s tlakem v peak-times. Cílem je udržitelně vysoký výkon, ne vyhoření. Proto klademe důraz na rovnováhu a psychickou pohodu našeho týmu.</p>
 
       <h2>Zprovoznění prvního vlastního projektu</h2>
-      <p>Nenecháváme lidi jen u teorie. Už v druhém měsíci dostává nováček pod dohledem mentora svůj první menší projekt nebo kampaň. Je to nejlepší způsob, jak uvést teorii do praxe a vidět okamžité výsledky své práce. Ten pocit, když poprvé uvidíte reálné leody generované vaší kampaní, je nenahraditelný.</p>
+      <p>Nenecháváme lidi jen u teorie. Už v druhém měsíci dostává nováček pod dohledem mentora svůj první menší projekt nebo kampaň. Je to nejlepší způsob, jak uvést teorii do praxe a vidět okamžité výsledky své práce. Ten pocit, když poprvé uvidíte reálné leady generované vaší kampaní, je nenahraditelný.</p>
 
       <h2>Závěr: Cesta k úspěchu začíná zde</h2>
-      <p>Onboarding v Cornerstone nekončí po zkušební době. Je to začátek dlouhodobé cesty osobního i profesního růstu. Naším cílem je vybudovat tým, kde se každý cítí kompetentní, podporovaný a hladový po úspěchu. Pokud hledáte místo, kde vás nehodí do vody, ale dají vám mapu k pokladu a naučí vás navigovat lodí i v největší bouři, pak je náš onboarding proces první krokem k vaší nové budoucnosti. Vítejte v týmu, který mění pravidla hry na realitním trhu.</p>
+      <p>Onboarding v Cornerstone nekončí po zkušební době. Je to začátek dlouhodobé cesty osobního i profesního růstu. Naším cílem je vybudovat tým, kde se každý cítí kompetentní, podporovaný a hladový po úspěchu. Pokud hledáte místo, kde vás nehodí do vody, ale dají vám mapu k pokladu a naučí vás navigovat lodí i v největší bouři, pak je náš onboarding proces prvním krokem k vaší nové budoucnosti. Vítejte v týmu, který mění pravidla hry na realitním trhu.</p>
     `,
   },
 ];
