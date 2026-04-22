@@ -3,13 +3,13 @@ import { motion } from "motion/react";
 const steps = [
   {
     number: "01",
-    title: "Generování Leadů",
-    description: "Náš marketingový tým oslovuje bonitní klientelu prostřednictvím cílených kampaní. Každý kontakt je prověřen a připraven na obchodní jednání.",
+    title: "Generování kontaktů",
+    description: "Náš marketingový tým vytváří cílené kampaně, díky kterým dlouhodobě získáváme databáze potenciálních klientů se zájmem o realitní projekty.",
   },
   {
     number: "02",
-    title: "Kvalifikovaný Obchod",
-    description: "Jako specialista přebíráte kontakt a provázíte klienta investičním procesem. Máte k dispozici veškeré vizualizace a podklady pro špičkovou prezentaci.",
+    title: "Kvalifikovaný obchod",
+    description: "Jako obchodník přebíráš tyto kontakty a aktivně s nimi pracuješ — oslovuješ klienty, zjišťuješ jejich situaci a představuješ možnosti spolupráce.\n\nKlienta provázíš celým procesem od prvního kontaktu až po finální rozhodnutí, s podporou podkladů, vizualizací a zázemí týmu.",
   },
   {
     number: "03",
@@ -63,7 +63,7 @@ export default function HowItWorks() {
                 <span className="relative z-10">{step.number}</span>
               </div>
               <h3 className="text-xl font-bold mb-4 text-[#163E32] tracking-wide">{step.title}</h3>
-              <p className="text-[#163E32]/60 leading-relaxed font-normal">
+              <p className="text-[#163E32]/60 leading-relaxed font-normal whitespace-pre-line">
                 {step.description}
               </p>
             </motion.div>
