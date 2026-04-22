@@ -9,7 +9,7 @@ const steps = [
   {
     number: "02",
     title: "Kvalifikovaný obchod",
-    description: "Jako obchodník přebíráš tyto kontakty a aktivně s nimi pracuješ — oslovuješ klienty, zjišťuješ jejich situaci a představuješ možnosti spolupráce.\n\nKlienta provázíš celým procesem od prvního kontaktu až po finální rozhodnutí, s podporou podkladů, vizualizací a zázemí týmu.",
+    description: "Jako obchodník přebíráš tyto kontakty a aktivně s nimi pracuješ — oslovuješ klienty, zjišťuješ jejich situaci a představuješ možnosti spolupráce.",
   },
   {
     number: "03",
