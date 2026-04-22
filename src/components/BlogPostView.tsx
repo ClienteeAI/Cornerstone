@@ -65,7 +65,13 @@ export default function BlogPostView({ post, onBack }: BlogPostViewProps) {
           </div>
 
           <div 
-            className="prose prose-xl max-w-none prose-headings:text-primary prose-headings:font-bold prose-p:text-primary/70 prose-p:leading-relaxed prose-strong:text-primary prose-strong:font-bold"
+            className="prose prose-xl max-w-none 
+              prose-headings:text-primary prose-headings:font-bold 
+              prose-h1:text-5xl prose-h1:mb-12 prose-h1:pb-4 prose-h1:border-b-2 prose-h1:border-gold
+              prose-h2:text-3xl prose-h2:mt-16 prose-h2:mb-8 prose-h2:border-l-4 prose-h2:border-gold prose-h2:pl-6
+              prose-h3:text-2xl prose-h3:mt-10 prose-h3:mb-4
+              prose-p:text-primary/70 prose-p:leading-relaxed prose-p:mb-8
+              prose-strong:text-primary prose-strong:font-bold"
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
 
