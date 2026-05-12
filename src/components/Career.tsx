@@ -4,7 +4,7 @@ import { CheckCircle2, ChevronLeft, ChevronRight } from "lucide-react";
 
 const points = [
   "Exkluzivní portfolio: Pracuješ s prémiovými nemovitostmi a investičními celky se skutečnou tržní hodnotou.",
-  "Marketingová podpora: Zapomeň na cold calling. Dodáváme ti kvalifikovanou poptávku a silné zázemí.",
+  "Marketingová podpora: Dodáváme ti kvalifikovanou poptávku a silné zázemí.",
   "Profesní růst: Nabízíme systém pravidelného vzdělávání v oboru realit a moderního vyjednávání.",
   "Nadstandardní ohodnocení: Tvůj výdělek není zastropován a přímo odráží tvůj obchodní výkon.",
   "Špičkové zázemí: Pracuješ v týmu profesionálů v prostředí, které motivuje k nejlepším výsledkům.",
