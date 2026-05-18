@@ -56,7 +56,18 @@ export default function Footer({ setView }: FooterProps) {
 
         <div className="mt-12 pt-8 border-t border-white/5 text-[10px] text-white/20 leading-relaxed max-w-4xl mx-auto text-center">
           <p className="font-semibold text-white/30 mb-2 uppercase tracking-widest">{legalContent.disclaimer.title}</p>
-          <p>{legalContent.disclaimer.content}</p>
+          <p className="mb-6">{legalContent.disclaimer.content}</p>
+          
+          <div className="border-t border-white/5 pt-6 text-[10px] text-white/30 max-w-3xl mx-auto">
+            <p className="font-semibold text-gold mb-2 uppercase tracking-widest">Cornerstone Marketing s.r.o.</p>
+            <div className="flex flex-col md:flex-row justify-center items-center gap-y-1.5 gap-x-6 text-white/25">
+              <span><strong>IČO:</strong> 24975583</span>
+              <span className="hidden md:inline text-white/10">•</span>
+              <span><strong>ADRESA:</strong> Příčná 1892/4, Nové Město (Praha 1), 110 00 Praha</span>
+              <span className="hidden md:inline text-white/10">•</span>
+              <span><strong>Spisová značka:</strong> C 445859/MSPH Městský soud v Praze</span>
+            </div>
+          </div>
         </div>
       </div>
 
